@@ -1,4 +1,9 @@
+siteTitle: "RSS Daily"
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
-  - href: https://rsshub.app/github/issue/ruanyf/weekly/open
-  - href: https://rsshub.app/github/issue/sorrycc/weekly/open
+   # - href: http://sspai.me/feed
+   - href: https://rss-hub-zeta-azure.vercel.app/github/issue/ruanyf/weekly/open
+   - href: https://rss-hub-zeta-azure.vercel.app/github/issue/sorrycc/weekly/open
+   # - href: https://rss-hub-zeta-azure.vercel.app/github/issue/xufei/blog/closed
+   # - href: https://rss-hub-zeta-azure.vercel.app/yuque/chenshuai/web
+   # - href: https://news.ycombinator.com/rss
